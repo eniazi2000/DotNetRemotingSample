@@ -1,0 +1,14 @@
+C:\Users\user\Documents\GitHub\NetRemoting\ClientRemoting\bin\Debug\ClientRemoting.exe.config
+C:\Users\user\Documents\GitHub\NetRemoting\ClientRemoting\bin\Debug\ClientRemoting.exe
+C:\Users\user\Documents\GitHub\NetRemoting\ClientRemoting\bin\Debug\ClientRemoting.pdb
+C:\Users\user\Documents\GitHub\NetRemoting\ClientRemoting\obj\Debug\ClientRemoting.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\NetRemoting\ClientRemoting\obj\Debug\ClientRemoting.Form1.resources
+C:\Users\user\Documents\GitHub\NetRemoting\ClientRemoting\obj\Debug\ClientRemoting.Properties.Resources.resources
+C:\Users\user\Documents\GitHub\NetRemoting\ClientRemoting\obj\Debug\ClientRemoting.csproj.GenerateResource.cache
+C:\Users\user\Documents\GitHub\NetRemoting\ClientRemoting\obj\Debug\ClientRemoting.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\NetRemoting\ClientRemoting\obj\Debug\ClientRemoting.exe
+C:\Users\user\Documents\GitHub\NetRemoting\ClientRemoting\obj\Debug\ClientRemoting.pdb
+C:\Users\user\Documents\GitHub\NetRemoting\ClientRemoting\bin\Debug\NetRemoting.exe
+C:\Users\user\Documents\GitHub\NetRemoting\ClientRemoting\bin\Debug\NetRemoting.pdb
+C:\Users\user\Documents\GitHub\NetRemoting\ClientRemoting\bin\Debug\NetRemoting.exe.config
+C:\Users\user\Documents\GitHub\NetRemoting\ClientRemoting\obj\Debug\ClientRemoting.csproj.CopyComplete

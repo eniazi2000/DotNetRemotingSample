@@ -1,0 +1,7 @@
+C:\Users\user\Documents\GitHub\NetRemoting\NetRemoting\bin\Debug\NetRemoting.exe.config
+C:\Users\user\Documents\GitHub\NetRemoting\NetRemoting\bin\Debug\NetRemoting.exe
+C:\Users\user\Documents\GitHub\NetRemoting\NetRemoting\bin\Debug\NetRemoting.pdb
+C:\Users\user\Documents\GitHub\NetRemoting\NetRemoting\obj\Debug\NetRemoting.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\NetRemoting\NetRemoting\obj\Debug\NetRemoting.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\NetRemoting\NetRemoting\obj\Debug\NetRemoting.exe
+C:\Users\user\Documents\GitHub\NetRemoting\NetRemoting\obj\Debug\NetRemoting.pdb
